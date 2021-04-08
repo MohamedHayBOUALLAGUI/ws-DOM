@@ -1,0 +1,11 @@
+.card {
+  margin: 15px auto;
+}
+.icon-left {
+  color: aqua;
+  padding-left: 10px;
+}
+.icon-right {
+  color: red;
+  padding-left: 90%;
+}
